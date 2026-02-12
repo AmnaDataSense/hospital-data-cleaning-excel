@@ -1,10 +1,10 @@
 # **📊 Hospital Data Cleaning Project (Excel)**
 
-##🔹 Project Overview
+## 🔹 Project Overview
 
 This project focuses on cleaning and standardizing a messy hospital patient dataset using Microsoft Excel.
 
-##🔹 Problems in Dataset
+## 🔹 Problems in Dataset
 
 - Missing values (N/A, blanks)
 
@@ -16,7 +16,7 @@ This project focuses on cleaning and standardizing a messy hospital patient data
 
 - Mixed data types
 
-##🔹 Cleaning Steps Performed
+## 🔹 Cleaning Steps Performed
 
 - Removed duplicates
 
@@ -30,7 +30,7 @@ This project focuses on cleaning and standardizing a messy hospital patient data
 
 - Structured dataset for analysis
 
-##🔹 Tools Used
+## 🔹 Tools Used
 
 - Microsoft Excel
 
@@ -40,7 +40,7 @@ This project focuses on cleaning and standardizing a messy hospital patient data
 
 - Conditional Formatting
 
-##🔹 Files Included
+## 🔹 Files Included
 
 - Raw Dataset (Before Cleaning)
 
