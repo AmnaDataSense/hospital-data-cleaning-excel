@@ -1,0 +1,236 @@
+Patient ID,Patient Name,Age,Gender,Diagnosis,Bill Amount,Admission Date,Payment Status
+500,Sara Noor,25,Other,Hypertension,15000,12-25-2025,Paid
+ pat501 ,Fatima Zahra,40,female,Flu,N/A,03-26-2025,paid 
+502,John David,25,Other,Diabetes,25000,09-23-2025,paid 
+ pat503 ,Maria Khan,,Male,Hypertension,$30000,25/02/2025,paid 
+504,John David,,male ,Covid-19,N/A,2025-09-15,paid 
+505,Fatima Zahra,55,female,Asthma,25000,2025-08-11, pending
+PAT506,Maria Khan,,Other,Hypertension,25000,14/08/2025,Pending
+ pat507 ,Fatima Zahra,25,Female,Covid-19,$30000,04-19-2025, pending
+ pat508 ,John David,40,Female,Asthma,$30000,2025-09-25, pending
+ pat509 ,Sara Noor,55,female,Hypertension,45000 PKR,2025-08-26,unpaid
+PAT510,Ahmed Ali,Thirty,female,Flu,,2025-05-29, pending
+ pat511 ,John David,55,Other,Diabetes,N/A,21/08/2025,paid 
+PAT512,Sara Noor,40,female,Covid-19,25000,10/10/2025,unpaid
+ pat513 ,Fatima Zahra,60,Male,Covid-19,,27/10/2025,Unpaid
+514,Sara Noor,60,Other,Flu,,2026-02-06,Paid
+PAT515,Maria Khan,60,Male,Covid-19,45000 PKR,2026-01-18,Paid
+PAT516,Sara Noor,,male ,Diabetes,$30000,26/01/2026,paid 
+PAT517,John David,25,female,Flu,45000 PKR,06-28-2025,paid 
+518,Sara Noor,60,male ,Asthma,,09-07-2025,Unpaid
+PAT519,Fatima Zahra,40,Female,Hypertension,45000 PKR,2025-09-18,unpaid
+PAT520,Sara Noor,Thirty,male ,Diabetes,$30000,2025-11-11,unpaid
+PAT521,Maria Khan,,female,Diabetes,15000,12/11/2025,unpaid
+PAT522,Maria Khan,,Other,Asthma,15000,08/03/2025,paid 
+PAT523,John David,60,Female,Asthma,15000,2025-11-22, pending
+524,Maria Khan,25,Other,Asthma,45000 PKR,2025-09-03,paid 
+525,Maria Khan,55,male ,Hypertension,$30000,2025-05-21,Pending
+526,Maria Khan,55,Male,Covid-19,$30000,2025-11-18, pending
+PAT527,Maria Khan,25,female,Covid-19,,05-04-2025,Pending
+PAT528,Ahmed Ali,25,female,Asthma,N/A,01-24-2026,Pending
+529,Maria Khan,60,male ,Asthma,25000,2026-02-11,unpaid
+PAT530,Maria Khan,60,Male,Asthma,$30000,21/08/2025,Pending
+PAT531,Sara Noor,Thirty,Male,Diabetes,$30000,14/01/2026,Paid
+532,Ahmed Ali,,Female,Flu,25000,2025-04-14,Paid
+533,Fatima Zahra,Thirty,Other,Diabetes,45000 PKR,29/12/2025,paid 
+ pat534 ,Sara Noor,Thirty,Male,Asthma,25000,16/12/2025,paid 
+PAT535,Sara Noor,55,female,Hypertension,15000,11-21-2025,unpaid
+536,Fatima Zahra,,female,Covid-19,45000 PKR,28/12/2025,paid 
+537,Ahmed Ali,60,Other,Asthma,25000,08-15-2025, pending
+538,John David,60,female,Diabetes,45000 PKR,19/12/2025, pending
+539,Maria Khan,60,Male,Diabetes,15000,12-29-2025,Paid
+PAT540,John David,40,Male,Hypertension,45000 PKR,2025-11-09,Paid
+PAT541,Fatima Zahra,55,Female,Covid-19,$30000,07/10/2025,Paid
+ pat542 ,Ahmed Ali,,Male,Hypertension,$30000,28/07/2025,paid 
+ pat543 ,Ahmed Ali,55,Male,Covid-19,N/A,18/02/2025,Paid
+544,Sara Noor,55,Other,Hypertension,N/A,01/07/2025,Paid
+PAT545,John David,25,male ,Asthma,15000,09/06/2025,unpaid
+PAT546,Ahmed Ali,40,Male,Covid-19,15000,2025-06-30,unpaid
+ pat547 ,Sara Noor,40,Female,Flu,$30000,2025-08-23,Paid
+548,Fatima Zahra,55,Male,Hypertension,,08-16-2025,Unpaid
+549,Ahmed Ali,40,male ,Covid-19,,02-01-2026, pending
+PAT550,Sara Noor,,Other,Flu,25000,10-25-2025,Pending
+551,Maria Khan,,Other,Diabetes,25000,01/02/2026,unpaid
+ pat552 ,Maria Khan,Thirty,Male,Asthma,25000,2025-12-28,Paid
+PAT553,John David,55,Other,Asthma,N/A,23/04/2025,unpaid
+554,Sara Noor,Thirty,Male,Flu,$30000,05/07/2025,Paid
+ pat555 ,Sara Noor,55,male ,Diabetes,$30000,2025-04-26,Pending
+ pat556 ,Maria Khan,,female,Asthma,,08-18-2025,paid 
+ pat557 ,Fatima Zahra,40,Male,Covid-19,25000,2025-09-02,Paid
+PAT558,Sara Noor,25,Female,Asthma,$30000,10-03-2025,unpaid
+ pat559 ,Maria Khan,,Female,Hypertension,$30000,03-24-2025,Pending
+560,Maria Khan,25,Female,Diabetes,,08-12-2025,Paid
+ pat561 ,Fatima Zahra,,Female,Covid-19,,05-14-2025,Unpaid
+PAT562,Ahmed Ali,25,Other,Covid-19,N/A,2025-07-02,Unpaid
+ pat563 ,Ahmed Ali,60,Other,Diabetes,45000 PKR,2025-05-03,paid 
+564,Ahmed Ali,60,female,Flu,N/A,2025-06-04,Pending
+ pat565 ,Sara Noor,60,Male,Covid-19,45000 PKR,09/02/2026,Unpaid
+ pat566 ,Ahmed Ali,55,Male,Covid-19,N/A,23/10/2025,unpaid
+ pat567 ,Ahmed Ali,40,Other,Diabetes,15000,01-25-2026,unpaid
+PAT568,Sara Noor,55,Male,Diabetes,45000 PKR,2025-07-03,Unpaid
+569,Sara Noor,55,Female,Covid-19,25000,11-14-2025, pending
+PAT570,Sara Noor,55,female,Hypertension,,2025-05-20, pending
+ pat571 ,Maria Khan,60,Female,Hypertension,N/A,2025-09-27,unpaid
+572,John David,Thirty,Other,Flu,,2025-05-21, pending
+573,Maria Khan,,male ,Flu,15000,2025-09-10,Unpaid
+574,Sara Noor,55,Female,Flu,25000,14/06/2025, pending
+ pat575 ,Maria Khan,25,Male,Hypertension,45000 PKR,2025-12-17,Paid
+576,Sara Noor,60,female,Flu,45000 PKR,12-15-2025,unpaid
+PAT577,Maria Khan,,Other,Covid-19,,05-02-2025,Paid
+578,John David,Thirty,Female,Covid-19,$30000,07-06-2025, pending
+PAT579,Ahmed Ali,40,Female,Diabetes,N/A,2026-02-06,Paid
+PAT580,John David,60,male ,Covid-19,N/A,07-09-2025,Unpaid
+ pat581 ,Sara Noor,,Other,Hypertension,N/A,07-26-2025,Unpaid
+PAT582,Sara Noor,55,Other,Hypertension,45000 PKR,29/05/2025,paid 
+ pat583 ,Ahmed Ali,,Female,Asthma,25000,2025-07-04,Pending
+584,Fatima Zahra,60,male ,Flu,15000,08-26-2025, pending
+PAT585,Fatima Zahra,55,male ,Flu,,23/05/2025,unpaid
+ pat586 ,Fatima Zahra,Thirty,Female,Hypertension,45000 PKR,2025-07-13,unpaid
+587,Ahmed Ali,,Female,Diabetes,N/A,06-16-2025, pending
+PAT588,John David,40,Other,Asthma,N/A,18/12/2025, pending
+ pat589 ,Maria Khan,Thirty,Female,Asthma,$30000,11-11-2025, pending
+590,Fatima Zahra,Thirty,Female,Asthma,45000 PKR,2025-11-24,paid 
+ pat591 ,Sara Noor,,Male,Covid-19,$30000,2025-10-24,paid 
+ pat592 ,Maria Khan,Thirty,Male,Flu,25000,2026-02-07,Unpaid
+PAT593,Maria Khan,,female,Asthma,N/A,05-15-2025,paid 
+PAT594,John David,Thirty,Male,Covid-19,$30000,04-03-2025,unpaid
+PAT595,John David,60,female,Hypertension,45000 PKR,06-24-2025, pending
+PAT596,Sara Noor,Thirty,female,Covid-19,45000 PKR,2025-12-04,Pending
+597,Sara Noor,55,Other,Hypertension,45000 PKR,19/06/2025, pending
+598,John David,40,female,Hypertension,25000,2025-11-27,Paid
+PAT599,Ahmed Ali,25,female,Asthma,25000,03/09/2025, pending
+600,Sara Noor,55,male ,Diabetes,25000,2025-04-01,Unpaid
+601,Sara Noor,40,Male,Flu,N/A,13/06/2025,Pending
+PAT602,Sara Noor,55,female,Asthma,$30000,23/12/2025,Unpaid
+603,Maria Khan,40,Female,Hypertension,,2025-06-12,Pending
+604,Fatima Zahra,,Other,Diabetes,25000,2025-12-31,unpaid
+ pat605 ,Maria Khan,55,Female,Covid-19,15000,2026-02-01,paid 
+606,Fatima Zahra,Thirty,male ,Hypertension,45000 PKR,15/03/2025,paid 
+607,Maria Khan,40,female,Covid-19,,01/06/2025, pending
+608,Sara Noor,40,female,Covid-19,15000,2026-01-20, pending
+PAT609,Ahmed Ali,60,male ,Hypertension,,2025-08-30,paid 
+ pat610 ,John David,Thirty,Male,Hypertension,15000,2025-09-28,Pending
+ pat611 ,Ahmed Ali,,Male,Covid-19,,30/05/2025,Paid
+PAT612,Sara Noor,,Male,Covid-19,25000,2025-10-02,Unpaid
+613,Sara Noor,,male ,Asthma,N/A,05-12-2025,Unpaid
+614,Ahmed Ali,40,Other,Covid-19,,19/07/2025,Pending
+ pat615 ,Maria Khan,,female,Flu,$30000,01-06-2026,Pending
+616,Fatima Zahra,55,male ,Asthma,N/A,2025-12-28,paid 
+617,Maria Khan,40,male ,Hypertension,15000,13/04/2025,unpaid
+ pat618 ,Fatima Zahra,,Other,Asthma,15000,23/01/2026,Pending
+ pat619 ,Sara Noor,25,female,Flu,N/A,04-28-2025, pending
+620,Sara Noor,60,Female,Flu,15000,05-27-2025,unpaid
+621,Maria Khan,25,Other,Hypertension,45000 PKR,03-04-2025,paid 
+622,Ahmed Ali,,Other,Hypertension,,2025-12-19,Paid
+PAT623,Fatima Zahra,,Male,Hypertension,15000,2025-11-08,Pending
+624,John David,40,Female,Asthma,25000,2025-05-10,Unpaid
+PAT625,Ahmed Ali,40,Male,Hypertension,45000 PKR,01-07-2026,Unpaid
+PAT626,Maria Khan,25,male ,Flu,15000,23/08/2025,Paid
+PAT627,Ahmed Ali,25,female,Covid-19,$30000,04-17-2025, pending
+628,Ahmed Ali,,female,Diabetes,,17/08/2025,Pending
+ pat629 ,Fatima Zahra,,Male,Hypertension,25000,06/08/2025,Paid
+ pat630 ,Sara Noor,Thirty,Other,Flu,15000,2025-05-19, pending
+PAT631,Maria Khan,Thirty,male ,Covid-19,15000,2025-05-03, pending
+632,John David,55,female,Hypertension,45000 PKR,08-11-2025,Unpaid
+PAT633,Fatima Zahra,60,male ,Diabetes,45000 PKR,2025-12-04, pending
+634,John David,60,male ,Asthma,45000 PKR,2025-02-14,Pending
+PAT635,John David,Thirty,female,Diabetes,N/A,02-04-2026,Unpaid
+ pat636 ,Sara Noor,Thirty,male ,Diabetes,25000,10/10/2025, pending
+ pat637 ,Fatima Zahra,25,male ,Covid-19,$30000,2026-02-05,Unpaid
+638,Ahmed Ali,,female,Covid-19,25000,18/01/2026,unpaid
+PAT639,Fatima Zahra,Thirty,Female,Hypertension,N/A,2025-10-23,Pending
+ pat640 ,Maria Khan,25,Male,Flu,$30000,23/07/2025,Pending
+ pat641 ,Maria Khan,25,male ,Diabetes,45000 PKR,09-12-2025,paid 
+ pat642 ,John David,Thirty,Other,Diabetes,15000,2025-04-01,paid 
+ pat643 ,Sara Noor,Thirty,Male,Diabetes,,09-26-2025,unpaid
+644,Ahmed Ali,60,Other,Flu,$30000,11-28-2025, pending
+645,John David,55,male ,Covid-19,15000,11-01-2025,Unpaid
+646,Maria Khan,55,female,Asthma,,2025-05-16,Pending
+ pat647 ,Sara Noor,Thirty,male ,Hypertension,,2025-12-18,Paid
+ pat648 ,John David,Thirty,Male,Flu,15000,2025-10-23,paid 
+ pat649 ,Maria Khan,Thirty,Female,Flu,N/A,12/07/2025,Pending
+PAT650,Maria Khan,,Other,Diabetes,25000,2025-08-27,unpaid
+ pat651 ,Ahmed Ali,40,Male,Asthma,45000 PKR,16/12/2025,Unpaid
+PAT652,Fatima Zahra,40,female,Flu,$30000,08/05/2025, pending
+ pat653 ,Fatima Zahra,Thirty,Female,Covid-19,,07/05/2025,Pending
+PAT654,Sara Noor,25,Male,Covid-19,25000,06-12-2025,paid 
+ pat655 ,Ahmed Ali,60,Female,Hypertension,15000,04-16-2025,Unpaid
+PAT656,John David,55,Other,Hypertension,25000,26/07/2025,Paid
+ pat657 ,Sara Noor,55,Other,Asthma,$30000,07/04/2025,Pending
+ pat658 ,Ahmed Ali,25,Female,Covid-19,25000,2025-03-12,unpaid
+PAT659,Fatima Zahra,55,Male,Covid-19,,2025-10-18,paid 
+ pat660 ,John David,40,Male,Flu,15000,2025-12-16,Unpaid
+PAT661,Fatima Zahra,Thirty,female,Asthma,45000 PKR,2025-09-19,paid 
+ pat662 ,Ahmed Ali,25,female,Flu,,16/05/2025,Unpaid
+ pat663 ,John David,60,female,Flu,N/A,01/04/2025, pending
+ pat664 ,Sara Noor,Thirty,Female,Hypertension,N/A,03-23-2025,unpaid
+ pat665 ,Ahmed Ali,,Female,Diabetes,$30000,2025-06-15,unpaid
+666,Sara Noor,60,Other,Hypertension,N/A,27/09/2025,Pending
+667,Fatima Zahra,40,Male,Asthma,,23/02/2025,Pending
+PAT668,Sara Noor,25,Other,Diabetes,15000,09-23-2025,Paid
+669,Maria Khan,Thirty,male ,Flu,$30000,12-09-2025,Paid
+670,Fatima Zahra,Thirty,female,Hypertension,$30000,11-02-2025,Paid
+ pat671 ,Fatima Zahra,Thirty,Other,Hypertension,,06-29-2025, pending
+672,Maria Khan,25,Female,Covid-19,,2025-10-22,paid 
+PAT673,Maria Khan,,Male,Flu,N/A,01-02-2026,paid 
+ pat674 ,Maria Khan,55,male ,Diabetes,45000 PKR,18/06/2025,Pending
+PAT675,Fatima Zahra,25,female,Covid-19,$30000,03/06/2025,paid 
+676,Sara Noor,55,female,Asthma,45000 PKR,06-21-2025,Pending
+PAT677,Sara Noor,40,Other,Hypertension,15000,26/05/2025,Pending
+PAT678,John David,,Female,Flu,15000,2025-12-19, pending
+ pat679 ,Fatima Zahra,Thirty,Female,Asthma,N/A,2025-06-04,unpaid
+PAT680,Maria Khan,Thirty,Male,Covid-19,$30000,03/03/2025,Pending
+681,Ahmed Ali,40,male ,Asthma,45000 PKR,01/04/2025,unpaid
+PAT682,Sara Noor,25,female,Flu,,2025-08-30,paid 
+683,Sara Noor,60,female,Diabetes,25000,05-05-2025,Paid
+ pat684 ,Fatima Zahra,25,female,Covid-19,15000,2025-05-20,Unpaid
+685,Ahmed Ali,Thirty,Other,Covid-19,15000,2025-11-08,paid 
+ pat686 ,Sara Noor,40,Other,Flu,15000,07-08-2025, pending
+PAT687,John David,40,Other,Flu,N/A,2025-07-05,Pending
+688,Maria Khan,,Other,Covid-19,25000,2025-10-01,unpaid
+ pat689 ,Fatima Zahra,Thirty,Female,Hypertension,,05-06-2025,Paid
+ pat690 ,John David,40,female,Hypertension,15000,06-15-2025,Unpaid
+ pat691 ,John David,Thirty,Other,Hypertension,,08/05/2025,Pending
+PAT692,Sara Noor,25,Male,Diabetes,N/A,26/11/2025,Pending
+693,Fatima Zahra,55,female,Covid-19,N/A,12-16-2025,paid 
+694,Maria Khan,40,Other,Flu,45000 PKR,2025-05-04,unpaid
+ pat695 ,Ahmed Ali,25,female,Diabetes,$30000,07/11/2025,unpaid
+ pat696 ,Ahmed Ali,Thirty,male ,Hypertension,45000 PKR,2025-05-04,unpaid
+697,John David,Thirty,female,Flu,$30000,2025-03-10,Unpaid
+ pat698 ,Sara Noor,25,Male,Asthma,45000 PKR,2025-11-04,Unpaid
+PAT699,John David,,Other,Diabetes,,01/08/2025,Pending
+PAT700,Sara Noor,Thirty,Female,Asthma,15000,26/10/2025,Unpaid
+ pat701 ,Maria Khan,60,female,Diabetes,45000 PKR,21/03/2025,Pending
+PAT702,Ahmed Ali,,Other,Diabetes,25000,2025-10-14,Pending
+PAT703,Maria Khan,40,female,Asthma,$30000,03-11-2025,Pending
+PAT704,John David,40,male ,Covid-19,N/A,12-05-2025,Paid
+705,Maria Khan,Thirty,Other,Diabetes,,11/01/2026,Unpaid
+PAT706,Fatima Zahra,55,female,Hypertension,$30000,04/07/2025,Pending
+ pat707 ,Maria Khan,Thirty,Male,Diabetes,25000,11-01-2025,paid 
+ pat708 ,Fatima Zahra,25,Other,Asthma,15000,14/07/2025,Unpaid
+ pat709 ,John David,60,male ,Asthma,45000 PKR,2025-11-25, pending
+PAT710,Ahmed Ali,40,Female,Flu,,2025-11-14,Unpaid
+711,Sara Noor,Thirty,Female,Asthma,45000 PKR,09-29-2025,paid 
+712,John David,Thirty,Male,Hypertension,$30000,23/01/2026,paid 
+713,Sara Noor,55,male ,Asthma,N/A,04-21-2025,unpaid
+714,Maria Khan,25,Male,Flu,45000 PKR,01-30-2026,paid 
+PAT715,Fatima Zahra,40,Male,Hypertension,45000 PKR,2025-04-06,Pending
+ pat716 ,Sara Noor,Thirty,Male,Hypertension,45000 PKR,16/05/2025,paid 
+ pat717 ,John David,60,Female,Flu,N/A,10-26-2025,unpaid
+ pat718 ,John David,60,Female,Covid-19,25000,2025-12-31,Paid
+719,Maria Khan,60,Male,Covid-19,15000,2025-03-31,unpaid
+PAT702,Ahmed Ali,,Other,Diabetes,25000,2025-10-14,Pending
+PAT585,Fatima Zahra,55,male ,Flu,,23/05/2025,unpaid
+634,John David,60,male ,Asthma,45000 PKR,2025-02-14,Pending
+601,Sara Noor,40,Male,Flu,N/A,13/06/2025,Pending
+533,Fatima Zahra,Thirty,Other,Diabetes,45000 PKR,29/12/2025,paid 
+564,Ahmed Ali,60,female,Flu,N/A,2025-06-04,Pending
+PAT540,John David,40,Male,Hypertension,45000 PKR,2025-11-09,Paid
+ pat689 ,Fatima Zahra,Thirty,Female,Hypertension,,05-06-2025,Paid
+697,John David,Thirty,female,Flu,$30000,2025-03-10,Unpaid
+PAT523,John David,60,Female,Asthma,15000,2025-11-22, pending
+ pat509 ,Sara Noor,55,female,Hypertension,45000 PKR,2025-08-26,unpaid
+ pat674 ,Maria Khan,55,male ,Diabetes,45000 PKR,18/06/2025,Pending
+PAT588,John David,40,Other,Asthma,N/A,18/12/2025, pending
+PAT530,Maria Khan,60,Male,Asthma,$30000,21/08/2025,Pending
+ pat637 ,Fatima Zahra,25,male ,Covid-19,$30000,2026-02-05,Unpaid
